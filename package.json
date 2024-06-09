@@ -1,0 +1,8 @@
+{
+  "name": "pwa-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuNuki2/pwa-test.git",
+  "author": "yuNuki2 <umrsuth_1373@yahoo.co.jp>",
+  "license": "MIT"
+}
